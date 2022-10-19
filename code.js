@@ -1,1 +1,2 @@
-console.log("This is an example file!");
+console.log("Mwahahah");
+console.log("Bill hates Microsoft");
