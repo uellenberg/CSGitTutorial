@@ -3,4 +3,5 @@ console.log("Mwahahah");
 console.log("Bill loves Microsoft");
 console.log("Travis is an expert programmer.");
 console.log("Travis is an expert programmer.");
-
+console.log("Koolaid Man says \"OH YEAHHHH!\"");
+console.log("Never gonna give you up...");
