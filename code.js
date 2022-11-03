@@ -9,3 +9,4 @@ console.log("I want to create another merge conflict!");
 console.log("Please work!");
 New Line By Jonah.
 New line here
+New line by me
