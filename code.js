@@ -7,4 +7,5 @@ console.log("Koolaid Man says \"OH YEAHHHH!\"");
 console.log("Never gonna give you up...");
 console.log("I want to create another merge conflict!");
 console.log("Please work!");
-New Line By Jonah
+New Line By Jonah.
+New line here
