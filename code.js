@@ -24,4 +24,5 @@ console.log("confusing")
 console.log("real")
 console.log("quick")
 console.log("WHO CAUSED THE CONFLICT!!!")
+console.log("not me")
 New line by me
