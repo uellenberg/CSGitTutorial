@@ -9,4 +9,5 @@ console.log("I want to create another merge conflict!");
 console.log("Please work!");
 console.log("Successful merge conflict commited and pushed!");
 console.log("Its a feature, not a bug!");
+console.log("you sunk my battleship!!!");
 New line by me
