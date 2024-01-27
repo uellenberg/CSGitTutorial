@@ -10,4 +10,6 @@ console.log("Please work!");
 console.log("Successful merge conflict commited and pushed!");
 console.log("Its a feature, not a bug!");
 console.log("Classic Hello World! KRBz");
+console.log("This is my line of code!");
+console.log("This is my second line of code!");
 New line by me
