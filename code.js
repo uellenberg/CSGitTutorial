@@ -11,4 +11,5 @@ console.log("Successful merge conflict commited and pushed!");
 console.log("Its a feature, not a bug!");
 console.log("This is my line of code!");
 console.log("This is my second line of code!");
-New line by me
+console.log("Hello there, I am here!");
+
