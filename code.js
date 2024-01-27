@@ -9,7 +9,9 @@ console.log("I want to create another merge conflict!");
 console.log("Please work!");
 console.log("Successful merge conflict commited and pushed!");
 console.log("Its a feature, not a bug!");
+console.log("What could possibly go wrong?");
 console.log("This is my line of code!");
 console.log("Robin B New line of code!!!")
 console.log("This is my second line of code!");
+console.log("I am trying")
 New line by me
